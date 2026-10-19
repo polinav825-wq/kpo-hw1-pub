@@ -4,3 +4,5 @@ obj/
 .idea/
 TestResults/
 *.user
+coverage/
+.DS_Store
